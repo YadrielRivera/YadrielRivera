@@ -1,5 +1,5 @@
 # 🛩️ About Me:
-Software Engineering student at UPRM<br>Incoming  Intern at RTX Applied Signal Technology<br>Result-driven and passionate about planning, developing, and testing products that interface hardware with software<br><br>
+Software Engineering student at UPRM<br>26' summer Intern at Raytheon Applied Signal Technology<br>Result-driven and passionate about planning, developing, and testing products that interface hardware with software<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadriel-rivera-rodr%C3%ADguez-63957834a/) 
